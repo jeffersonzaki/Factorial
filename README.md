@@ -2,5 +2,4 @@
 Finds the factorial of any positive number
 
 # What I Learned
-While loops
-Passsing a value
+While loop and Passsing a value
